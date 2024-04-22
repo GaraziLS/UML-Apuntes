@@ -105,7 +105,7 @@ Behavioral diagrams are much different, behavioral diagrams care about how your 
 
 Here we can find these types of diagrams:
 
-* *** Activity ***: Activity diagrams are to behavioral diagrams the same as class diagrams to structural ones. It shows the workflow of a client's decisions, showing all the possible outcomes. It's composed by these elements: Initial state or start point, Activity/action state, action flow, decisions and branching, guards, and final state or end points.
+* *** Activity ***: Activity diagrams are to behavioral diagrams the same as class diagrams to structural ones. It shows the workflow of a client's decisions, showing all the possible outcomes. It's composed by these elements: Initial state or start point, Activity/action state, action flow, decisions and branching, guards, final state or end points, and swim lanes.
 
 ![activity diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-13+at+10.18.53+AM.png)
 
