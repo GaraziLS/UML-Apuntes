@@ -6,27 +6,27 @@ Composed by nodes, deployments, artifacts, links, artifacts, dependencies, and a
 
  This is a deployment diagram for an assessment engine, starting at the top, it has what is called the CI server. In the CI server we have: Staging environment, Pre-production environment, and Production environment. The large boxes are called nodes, and inside them we have components.
 
-* *** Nodes ***: Every part of the diagram is a node. 
+* ***Nodes***: Every part of the diagram is a node. 
 
 ![nodes deployment diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+2.57.46+PM.png)
 
-* *** Components ***: Can be an app, an API, a web service, a database... represented by rounded rectabgles or 3d cubes. The symbols aren't that important, being consistent to represent the systems is.
+* ***Components***: Can be an app, an API, a web service, a database... represented by rounded rectabgles or 3d cubes. The symbols aren't that important, being consistent to represent the systems is.
 
 ![component](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+3.07.22+PM.png)
 
 ![components](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+3.10.43+PM.png)
 
-* *** Artifacts ***: They're put inside << >>. When analyzing a deployment diagram, if I want to see what type of server I'm going to deploy or the type of application that I'm going to configure, these are the items that I look at.
+* ***Artifacts***: They're put inside << >>. When analyzing a deployment diagram, if I want to see what type of server I'm going to deploy or the type of application that I'm going to configure, these are the items that I look at.
 
 ![artifacts deployment diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+3.38.29+PM.png)
 
-* *** Links and Dependencies ***: Lines connect nodes. Dependencies are represented by dotted arrows in the direction of the node they're tied to.
+* ***Links and Dependencies***: Lines connect nodes. Dependencies are represented by dotted arrows in the direction of the node they're tied to.
 
 ![dp links](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+3.45.33+PM.png)
 
 ![dp dependencies](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+4.09.59+PM.png)
 
-* *** Associations ***: The association element is very similar to the link and the dependency. It is a way of connecting all of the nodes and showing how they're associated. (Child nodes connected to a parent node). In this case, we have an entire system that represents how a user and an API can connect with a web application that leverages a load balancer. We're not going to focus on how load balancers work, however, by looking at this system you can tell that a load balancer can take in a request from the Internet and then maps that to various applications servers.
+* ***Associations***: The association element is very similar to the link and the dependency. It is a way of connecting all of the nodes and showing how they're associated. (Child nodes connected to a parent node). In this case, we have an entire system that represents how a user and an API can connect with a web application that leverages a load balancer. We're not going to focus on how load balancers work, however, by looking at this system you can tell that a load balancer can take in a request from the Internet and then maps that to various applications servers.
 
 ![dp associations](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-16+at+3.58.01+PM.png)
 

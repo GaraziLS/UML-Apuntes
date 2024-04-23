@@ -71,7 +71,7 @@ In short: diagrams that illustrate code workflow, without a single line of code.
 
  **Types**
 
- * *** Class ***: Composed by classes that have names, attributes and operations. It describes what elements do you have, how they associate and some core operations.
+ * ***Class***: Composed by classes that have names, attributes and operations. It describes what elements do you have, how they associate and some core operations.
 
  ![class example](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-12+at+1.53.59+PM.png)
 
@@ -81,13 +81,13 @@ In short: diagrams that illustrate code workflow, without a single line of code.
 
 If we add a little minus sign, that would mean that it is an operation/method/function that is only available to the topic. For example, if we had some specialized algorithm that determined the top ten and we didn't want any other class to be able to call it, we would put a little minus sign right there to say this is private. It's visible only to the topic.
 
- * *** Deployment ***: Composed by nodes, deployments, artifacts, links, artifacts, dependencies, and associations. This diagram is used to model how an entire system architecture should be configured.
+ * ***Deployment***: Composed by nodes, deployments, artifacts, links, artifacts, dependencies, and associations. This diagram is used to model how an entire system architecture should be configured.
 
  ![Deployment diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-12+at+2.41.43+PM.png)
 
  This is a deployment diagram for an assessment engine, starting at the top, it has what is called the CI server. In the CI server we have: Staging environment, Pre-production environment, and Production environment. The large boxes are called nodes, and inside them we have components.
 
- * *** Package ***: Composed by Types, classifiers, classes, use cases components, packages, constraints, dependencies and events. 
+ * ***Package***: Composed by Types, classifiers, classes, use cases components, packages, constraints, dependencies and events. 
 
  ![package diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-12+at+4.09.39+PM.png)
 
@@ -105,19 +105,19 @@ Behavioral diagrams are much different, behavioral diagrams care about how your 
 
 Here we can find these types of diagrams:
 
-* *** Activity ***: Activity diagrams are to behavioral diagrams the same as class diagrams to structural ones. It shows the workflow of a client's decisions, showing all the possible outcomes. It's composed by these elements: Initial state or start point, Activity/action state, action flow, decisions and branching, guards, final state or end points, and swim lanes.
+* ***Activity***: Activity diagrams are to behavioral diagrams the same as class diagrams to structural ones. It shows the workflow of a client's decisions, showing all the possible outcomes. It's composed by these elements: Initial state or start point, Activity/action state, action flow, decisions and branching, guards, final state or end points, and swim lanes.
 
 ![activity diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-13+at+10.18.53+AM.png)
 
-* *** Use case ***: They show everything that a user has access to (won't be the same for regular users and game developers for example). It's composed by use cases, actors, subsystems, and relationships.
+* ***Use case***: They show everything that a user has access to (won't be the same for regular users and game developers for example). It's composed by use cases, actors, subsystems, and relationships.
 
 ![use case diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-13+at+10.22.01+AM.png)
 
-* *** State machine ***: Here, what is being visualized is what data looks like and actions at various stages of a software systems lifecycle. The elements are Entry points, Choices, Constraints, States and Transitions.
+* ***State machine***: Here, what is being visualized is what data looks like and actions at various stages of a software systems lifecycle. The elements are Entry points, Choices, Constraints, States and Transitions.
 
 ![state machine diagrams](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-13+at+10.40.54+AM.png)
 
-* *** Sequence diagrams ***: This diagram speaks directly to the implementation. They speak to how the code needs to operate. If done well, it will make the implementation of the project much easier to build. It's composed by Class Roles or Participants, Activation or Execution Occurrence, Messages and Lifelines.
+* ***Sequence diagrams***: This diagram speaks directly to the implementation. They speak to how the code needs to operate. If done well, it will make the implementation of the project much easier to build. It's composed by Class Roles or Participants, Activation or Execution Occurrence, Messages and Lifelines.
 
 ![sequence diagrams](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-13+at+11.29.33+AM.png)
 
