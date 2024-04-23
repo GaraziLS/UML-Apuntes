@@ -1,4 +1,5 @@
-Composed by classes that have names, attributes and operations. It describes what elements do you have, how they associate and some core operations.
+
+Class diagrams are composed by classes that have names, attributes and operations. It describes what elements do you have, how they associate and some core operations.
 
  ![class example](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UML+images/Screen+Shot+2017-10-12+at+1.53.59+PM.png)
 
