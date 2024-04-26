@@ -1,6 +1,6 @@
 ### Project one: Twitter use case and class diagrams
 
-![Project 1 diagram](/UML%20proyectos/P1%20-%20Twitter.drawio.png)
+![Project 1 diagram](https://i.postimg.cc/8kfhGs3K/P1-Twitter-drawio.png)
 
 ## Project one: Teacher's solution to Twitter use case diagram
 
@@ -14,7 +14,7 @@ ______________________________________________________________________
 
 ### Project two: E-commerce diagrams (class & activity)
 
-![Project 2 my solution](/UML%20proyectos/ecommerce%20project%202.drawio.png)
+![Project 2 my solution](https://i.postimg.cc/WzZrwfgL/ecommerce-project-2-drawio.png)
 
 ## Project two: Teacher's solution to E-commerce activity diagram 
 
