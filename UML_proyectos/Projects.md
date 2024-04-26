@@ -2,7 +2,7 @@
 
 ![Project 1 diagram](/UML%20proyectos/P1%20-%20Twitter.drawio.png)
 
-## Project one: Teacher¡s solution to Twitter use case diagram
+## Project one: Teacher's solution to Twitter use case diagram
 
 ![Project 1 use case teacher solution](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+1%3A+Twitter/Post+Tweet+use+case+diagram.PNG)
 
