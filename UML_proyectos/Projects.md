@@ -62,3 +62,19 @@ end
 ### Project three: Teacher's solution to sequence diagram
 
 ![p3 sequence diagram](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+3%3A+Phone+Parsing+Code+Library/Phone+Parser+sequence+diagram.PNG)
+
+_______________________________________________________
+
+## Project four: Fleet management system (activity, package)
+
+Cursive in Package means that's copied from the teacer's solution
+
+![p4 acc pckg](https://i.postimg.cc/vB8gZ3tK/p4-fleet-management-acc-pckg.jpg)
+
+### Project four: Teacher's solution to fleet management system (activity)
+
+![p4 acc teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+4%3A+Enterprise+Fleet+Management+System/Maintenance+activity+diagram.PNG)
+
+### Project four: Teacher's solution to fleet management system (activity)
+
+![p4 pckg teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+4%3A+Enterprise+Fleet+Management+System/Fleet+Management+System+package+diagram.PNG)
