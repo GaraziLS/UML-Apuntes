@@ -90,3 +90,24 @@ So how are these application servers able to serve identical content and pages t
 Lastly, we have our database cluster. Part of the reason why I structured it this way is because this is a pretty common pattern. You want to be able to cache certain items that are not changed on a regular basis--usually view-centric items--however, you don't want to cache data. Imagine a scenario where you have a user who wants to go check the status of their maintenance request. If you cache that maintenance request then that record is not going to update for them, even if someone went in and did change the status. So it's very important to understand which items should be cached and which ones shouldn't. Usually the way that I will run something like this is anything that changes on a regular basis I'll place inside of the database cluster and then I will not perform any caching on that.
 
 ![p4 class teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+4%3A+Enterprise+Fleet+Management+System/Fleet+Management+System+class+diagram.PNG)
+
+_____________________________________________________________
+
+## Project five: Uber car service (Activity, package, use case, deployment)
+
+![p5 act pkg](https://i.postimg.cc/8kKgnFhR/P5-uber-1.jpg)
+
+![p5 uc dep](https://i.postimg.cc/wMGKtP6f/P5-uber-2.jpg)
+
+### Project five: Teacher's solution to Uber project (activity & package)
+
+![p5 acc teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Uber+Activity+Diagram+%23+1313/image1.png)
+
+![p5 pkg teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Uber+Package+Diagram+%23+1314/image1.png)
+
+### Project five: Teacher's solution to Uber project (use case & deployment)
+
+![p5 uc teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Uber+Use+Case+Diagram+%23+1315/image1.png)
+
+![p5 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Uber+Deployment+Diagram+%23+1316/image1.png)
+
