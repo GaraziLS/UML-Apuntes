@@ -111,3 +111,26 @@ _____________________________________________________________
 
 ![p5 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Uber+Deployment+Diagram+%23+1316/image1.png)
 
+___________________________________________________________
+
+## Project six: Education assesment system (activity, class, state machine, deployment)
+
+![p6 act class](https://i.postimg.cc/LsrJ6T5k/p6-education-part-1.jpg)
+
+Cursive is from teacher's solution
+
+![p6 sm dep](https://i.postimg.cc/2yHbmfZy/P6-part-2.jpg)
+
+### Project six: Teacher's solution to education assesment system (activity & class)
+
+![p6 act teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+Activity+Diagram+%23+1317/image1.png)
+
+![p6 class teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+Class+Diagram+%23+1318/image1.png)
+
+### Project six: Teacher's solution to education assesment system (state machine & deployment)
+
+![p6 sm teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+State+Machine+Diagram+%23+1319/image1.png)
+
+![p7 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+Deployment+Diagram+%23+1320/image1.png)
+
+_______________________________________________________
