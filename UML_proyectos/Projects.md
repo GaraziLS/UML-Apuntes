@@ -131,6 +131,30 @@ Cursive is from teacher's solution
 
 ![p6 sm teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+State+Machine+Diagram+%23+1319/image1.png)
 
-![p7 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+Deployment+Diagram+%23+1320/image1.png)
+![p6 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Education+Assessment+Deployment+Diagram+%23+1320/image1.png)
 
 _______________________________________________________
+
+## Project seven: Marketing system (use case, activity, package, deployment, state machine, class)
+
+![p7 uc act pkg](https://i.postimg.cc/6qSW-PYD4/p7-1.jpg)
+
+![p7 dep sm class](https://i.postimg.cc/Twp9rcvH/p7-2.jpg)
+
+### Project seven: Teacher's solution to Marketing system (use case, activity, package)
+
+![p7 uc teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Marketing+System+Use+Case+Diagram+%23+1321/image1.png)
+
+![p7 act teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Marketing+System+Activity+Diagram+%23+1322/image1.png)
+
+
+![p7 pkg teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Marketing+System+Package+Diagram+%23+1323/image1.png)
+
+### Project seven: Teacher's solution to Marketing system (deployment, state machine, class)
+
+![p7 dep teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Marketing+System+Deployment+Diagram+%23+1324/image2.png)
+
+![p7 sm teacher](https://s3-us-west-2.amazonaws.com/devcamp-pictures/Problem+Solving+images/Project+Solution%3A+Marketing+System+State+Machine+Diagram+%23+1325/image1.png)
+
+
+![p7 class teacher](https://i.postimg.cc/8zXwsYqr/p7-teacher-class.png)
